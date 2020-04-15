@@ -3,3 +3,9 @@ Im MM04 wird der Wert „ Häufigkeit der Kraftausübung *‘‘, durch Multipli
 Allerdings bei den angegebenen Eingaben, wenn man die Zahl 138 mit 0276 multipliziert, überschreitet der Wert 9300 und dies den Fehler verursacht.
 Bitte überprüfen Sie und korrigieren Sie den Wert, den Sie in das Feld „reale Häuigkeit der Kraftausübung *“ eingeben, so dass der berechnete Wert in „ Häuigkeit der Kraftausübung *“, die Zahl 9300 nicht überschreit.
 Die Anwendung 
+Wir haben das Problem überprüft und konnten feststellen, dass für die Analyse ,,BA052-ST620/ST621/ST622‘‘ , die Prozesshäufigkeit-  ,,138‘‘ ist. 
+Im MM04 wird der Wert „ Häufigkeit der Kraftausübung *‘‘, durch Multiplikation der Prozessfrequenz(in Kopfdaten) und reale Häuigkeit der Kraftausübung, berechnet.
+Allerdings bei den angegebenen Eingaben, wenn man die Zahl 138 mit 0276 multipliziert, überschreitet der Wert 9300 und dies den Fehler verursacht.
+Bitte überprüfen Sie und korrigieren Sie den Wert, den Sie in das Feld „reale Häuigkeit der Kraftausübung *“ eingeben, so dass der berechnete Wert in „ Häuigkeit der Kraftausübung *“, die Zahl 9300 nicht überschreit.
+Die Anwendung 
+vsdcc
