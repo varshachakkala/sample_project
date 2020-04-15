@@ -9,3 +9,5 @@ Allerdings bei den angegebenen Eingaben, wenn man die Zahl 138 mit 0276 multipli
 Bitte überprüfen Sie und korrigieren Sie den Wert, den Sie in das Feld „reale Häuigkeit der Kraftausübung *“ eingeben, so dass der berechnete Wert in „ Häuigkeit der Kraftausübung *“, die Zahl 9300 nicht überschreit.
 Die Anwendung 
 vsdcc
+
+pull command
